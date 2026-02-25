@@ -18,6 +18,7 @@ import { HeroHeader } from "@/src/components/header";
 import { AnimatedGroup } from "@/src/components/ui/animated-group";
 import FooterSection from "@/src/components/footer";
 import { formatDate } from "@/src/lib/utils"
+import { useState } from "react";
 
 interface PageProps {
     params: Promise<{ slug: string }>;
@@ -39,10 +40,11 @@ export default async function BlogPost({ params }: PageProps) {
     const MDX = page.data.body;
     const date = new Date(page.data.date);
     const formattedDate = formatDate(date);
+    const [screen, setScreen] = useState<'login' | 'forgot' | 'create'>('login')
 
     return (
         <>
-            <HeroHeader />
+            <HeroHeader onCreate={() => setScreen('create')} onLogin={() => setScreen('login')} />
             {/* Header */}
             <AnimatedGroup
                 variants={{
