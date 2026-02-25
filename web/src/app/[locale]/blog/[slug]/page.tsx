@@ -1,3 +1,4 @@
+"use client"
 import { source } from "@/src/lib/source";
 import { DocsBody } from "fumadocs-ui/page";
 import { notFound } from "next/navigation";

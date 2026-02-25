@@ -1,3 +1,4 @@
+"use client"
 import { source } from "@/src/lib/source";
 import { Suspense, useState } from "react";
 import { BlogCard } from "@/src/components/blog-card";
