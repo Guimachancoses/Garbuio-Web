@@ -17,7 +17,7 @@ export default function FeaturesSection() {
                     </h2>
                     <div className="mt-12 grid gap-12 sm:grid-cols-2">
                         <div className="col-span-full space-y-4">
-                            <Card variant="soft" className="overflow-hidden px-6">
+                            <Card  className="overflow-hidden px-6">
                                 <div className="relative mx-auto w-full max-xl aspect-[18/14]">
                                     <Image
                                         src="/empresa-laco-amarelo.jpg"
@@ -36,7 +36,7 @@ export default function FeaturesSection() {
                         </div>
                         <div className="grid grid-rows-[1fr_auto] space-y-4">
                             <Card
-                                variant="soft"
+                                
                                 className="flex justify-center p-6">
                                 <div className="relative mx-auto w-full aspect-[21/6] md:aspect-[21/5]">
                                     <Image
@@ -60,7 +60,7 @@ export default function FeaturesSection() {
 
                         <div className="grid grid-rows-[1fr_auto] space-y-4">
                             <Card
-                                variant="soft"
+                                
                                 className="flex justify-center p-6">
                                 <div className="relative mx-auto w-full aspect-[21/6] md:aspect-[21/9]">
                                     <Image

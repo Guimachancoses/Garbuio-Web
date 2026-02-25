@@ -1,5 +1,4 @@
 import { Card } from '@/src/components/ui/card'
-import { Table } from './table'
 import Image from 'next/image'
 
 
@@ -31,7 +30,7 @@ export default function Features() {
                             <p className="text-muted-foreground my-4 text-lg">Com muito trabalho e ideias visionárias, ele e seu filho <cite className='text-primary'>Claudio Renato Garbuio</cite>, buscando sempre atender os clientes com muita responsabilidade e empenho, batalhando para a expansão da frota, construíram uma empresa sólida e muito respeitada no mercado.</p>
                             <Card
                                 className="relative w-[380px] h-[510px] overflow-hidden px-6"
-                                variant="soft">
+                                >
                                 <img src="/erg-photo.png" alt="" />
                             </Card>
                         </div>
@@ -40,7 +39,7 @@ export default function Features() {
                             <p className="text-muted-foreground my-4 text-lg">Sem perderem o foco empreendedor, prezando pela eficiência e respeito, mantiveram a união familiar e o crescimento acontecia de forma rápida, porém, consciente. A parceria com a Petrobras foi um divisor de águas na empresa, algo que nos orgulha e permanece até hoje. Com o passar dos anos foram conquistados novos clientes até alcançar o ponto que estamos hoje.</p>
                             <Card
                                 className="relative w-auto h-auto overflow-hidden"
-                                variant="soft">
+                                >
                                 <img className="px-5" src="/jornal.png" alt="" />
                             </Card>
                         </div>
