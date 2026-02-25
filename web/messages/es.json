@@ -1,0 +1,134 @@
+{
+  "header": {
+    "title": "Sobre nosotros",
+    "title-1": "Soluciones",
+    "title-2": "Blog",
+    "title-3": "Contáctanos",
+    "button": "Entrar",
+    "button-1": "Registrarse",
+    "button-2": "Más información",
+    "toggle": "Claro",
+    "toggle-1": "Oscuro",
+    "toggle-2": "Sistema"
+  },
+  "footer": {
+    "title": "Sobre nosotros",
+    "title-1": "Soluciones",
+    "title-2": "Blog",
+    "title-3": "Contáctanos",
+    "title-4": "Trabaja con nosotros",
+    "title-5": "Privacidad",
+    "signature": "Creado por"
+  },
+  "dialog-whats": {
+    "title": "¿Con qué área quieres hablar?",
+    "button": "Ventas",
+    "button-1": "Únete a nosotros",
+    "button-2": "Autos usados",
+    "button-3": "Contáctanos",
+    "button-4": "Equipo técnico",
+    "close": "Cerrar"
+  },
+  "home": {
+    "title": "Soluciones de Transporte",
+    "description": "Compromiso y seguridad en cada operación.",
+    "title-1": "Logística Inteligente",
+    "description-1": "Tecnología y eficiencia para su operación.",
+    "title-2": "Conectando Caminos",
+    "description-2": "Puntualidad y seriedad de principio a fin.",
+    "button": "Únete a nosotros",
+    "button-1": "Más información",
+    "button-2": "Conoce a nuestros clientes"
+  },
+  "home-2": {
+    "title": "¿Por qué elegir Transportadora Garbuio?",
+    "name": "Compañía de Transportes Garbuio",
+    "paraf": "Desde 1967, una",
+    "paraf-0": "es un referente en transporte corporativo, combinando experiencia, calidad y confiabilidad.",
+    "paraf-1": "Trabajamos con procesos eficientes para brindar servicios de alta calidad y superar las expectativas de nuestros clientes. Nuestra flota de camiones es extensa y se renueva periódicamente, al igual que nuestros equipos y estructuras, lo que nos permite atender a todo Brasil.",
+    "paraf-2": "Nuestro equipo está altamente capacitado y utiliza modernos mecanismos de control para garantizar un servicio ágil y seguro. Siempre actuamos de forma responsable y sostenible, preservando el medio ambiente y priorizando la seguridad en todas nuestras operaciones."
+  },
+  "home-3": {
+    "title": "Nuestros Servicios",
+    "description": "Transportes Garbuio es reconocido por su excelencia en el transporte de una amplia variedad de cargas, ofreciendo soluciones seguras, rápidas y de alta calidad.",
+    "title-1": "Transporte de Dextrosa",
+    "title-2": "Transporte de Emulsión Asfáltica",
+    "title-3": "Transporte de Fertilizante Líquido y Sólido",
+    "title-4": "Transporte de Gasolina",
+    "title-5": "Transporte de Azúcar",
+    "title-6": "Transporte de Antrafen",
+    "title-7": "Transporte de Arena",
+    "title-8": "Transporte de Biodiésel (B100)",
+    "title-9": "Transporte de Cal Viva",
+    "title-10": "Transporte de Caliza",
+    "title-11": "Transporte de Contenedor",
+    "title-12": "Transporte de Coque",
+    "title-13": "Transporte de Yeso Agrícola",
+    "title-14": "Transporte de Glicerina",
+    "title-15": "Transporte de Lastre",
+    "title-16": "Transporte de Madera",
+    "title-17": "Transporte de Aceite “Raro”",
+    "title-18": "Transporte de Aceite Combustible",
+    "title-19": "Transporte de Aceite de Esquisto",
+    "title-20": "Transporte de Brea",
+    "title-21": "Transporte de QAV (JET)"
+  },
+  "home-4": {
+    "title": "¡Garbuio Seminovos! La excelencia te mueve",
+    "description": "Encuentra vehículos pesados ​​rigurosamente seleccionados con calidad garantizada y oportunidades especiales. Explora nuestras opciones y da el siguiente paso con seguridad y confianza."
+  },
+  "home-5": {
+    "title": "Número de clientes",
+    "description": "Resultados que reflejan la confianza y satisfacción de quienes nos acompañan.",
+    "card": "Clientes atendidos",
+    "card-1": "Clientes fieles",
+    "card-2": "Colaboraciones activas"
+  },
+  "team": {
+    "card": "Equipo",
+    "title": "Nuestro Dream Team",
+    "description": "Durante la ejecución del servicio, realizamos un seguimiento y ajustes constantes con el cliente, ya que es quien mejor puede evaluar si la operación satisface plenamente sus necesidades y expectativas."
+  },
+  "faqs": {
+    "title": "Preguntas frecuentes",
+    "description": "¿No encontraste lo que buscabas? Contacta con",
+    "description-1": "el equipo de atención al cliente"
+  },
+  "page-login": {
+    "title": "Área de uso interno exclusivo para los empleados de Transportadora Garbuio.",
+    "description": "Acceso restringido y autorizado únicamente para empleados de la empresa.",
+    "description-1": "Para nuevos registros, su solicitud se remitirá al departamento responsable y se confirmará el acceso por correo electrónico.",
+    "info": "Contacto",
+    "info-1": "Correo electrónico"
+  },
+  "login-card": {
+    "title": "Acceder al Garbuio Hub",
+    "description": "¡Bienvenido de nuevo! Inicia sesión para continuar",
+    "user": "Nombre de usuario",
+    "password": "Contraseña",
+    "button": "¿Olvidaste tu contraseña?",
+    "button-1": "Iniciar sesión",
+    "ask": "¿No tienes cuenta?",
+    "button-2": "Crear cuenta"
+  },
+  "create-card": {
+    "title": "Crear acceso a Garbuio Hub",
+    "description": "¡Bienvenido! Crea una cuenta para empezar",
+    "name": "Nombre",
+    "second-name": "Apellidos",
+    "user": "Nombre de usuario",
+    "password": "Contraseña",
+    "button": "Continuar",
+    "ask": "¿Ya tienes una cuenta?",
+    "button-1": "Iniciar sesión"
+  },
+  "forgot-card": {
+    "title": "Recuperar contraseña",
+    "description": "Ingresa tu correo electrónico y recibirás un enlace",
+    "mail": "Correo electrónico",
+    "button": "Enviar",
+    "info": "Te enviaremos un enlace a tu correo electrónico",
+    "ask": "¿Recordaste tu contraseña?",
+    "button-1": "Iniciar sesión"
+  }
+}

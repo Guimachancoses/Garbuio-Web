@@ -1,0 +1,154 @@
+{
+  "header": {
+    "title": "Quem Somos",
+    "title-1": "Soluções",
+    "title-2": "Blog",
+    "title-3": "Fale Conosco",
+    "button": "Entrar",
+    "button-1": "Cadastre-se",
+    "button-2": "Saiba Mais",
+    "toggle": "Claro",
+    "toggle-1": "Escuro",
+    "toggle-2": "Sistema"
+  },
+  "footer": {
+    "title": "Quem Somos",
+    "title-1": "Soluções",
+    "title-2": "Blog",
+    "title-3": "Fale Conosco",
+    "title-4": "Trabalhe Conosco",
+    "title-5": "Privacidade",
+    "signature": "Criado por"
+  },
+  "dialog-whats":{
+    "title": "Com qual área você quer falar ?",
+    "button": "Comercial",
+    "button-1": "Agregue Conosco",
+    "button-2": "Seminovos",
+    "button-3": "Fale Conosco",
+    "button-4": "Equipe Técnica",
+    "close": "Fechar"
+  },
+  "home": {
+    "title": "Soluções em Transporte",
+    "description": "Comprometimento e segurança em cada operação.",
+    "title-1": "Logística Inteligente",
+    "description-1": "Tecnologia e eficiência para sua operação.",
+    "title-2": "Conectando Caminhos",
+    "description-2": "Pontualidade e confiança do início ao fim.",
+    "button": "Agrege Com a Gente",
+    "button-1": "Saiba Mais",
+    "button-2": "Conheça nossos clientes"
+  },
+  "home-2": {
+    "title": "Por que escolher a Transportadora Garbuio ?",
+    "name": "Transportadora Garbuio",
+    "paraf": "Desde 1967, a",
+    "paraf-0": "é referência em transporte corporativo, unindo experiência, qualidade e confiabilidade.",
+    "paraf-1": "Trabalhamos com processos eficientes para entregar serviços de alto padrão e superar as expectativas dos clientes. Nosso parque de caminhões é amplo e renovado periodicamente, assim como nossos equipamentos e estruturas, permitindo atendimento em todo o Brasil.",
+    "paraf-2": "Nossa equipe é altamente treinada e utiliza mecanismos modernos de controle para garantir um atendimento ágil e seguro. Atuamos sempre com responsabilidade e sustentabilidade, preservando o meio ambiente e priorizando a segurança em todas as operações."
+  },
+  "home-3": {
+    "title": "Nossos Serviços",
+    "description": "A Transportadora Garbuio é reconhecida pela excelência no transporte dos mais diversos tipos de cargas, oferecendo soluções seguras, ágeis e de alta qualidade.",
+    "title-1": "Transporte Dextrose",
+    "title-2": "Transporte de Emulsão Asfáltica",
+    "title-3": "Transporte de Fertilizante Líquido e Sólido",
+    "title-4": "Transporte de Gasolina",
+    "title-5": "Transporte de Açúcar",
+    "title-6": "Transporte de Antrafen",
+    "title-7": "Transporte de Areia",
+    "title-8": "Transporte de Biodiesel (B100)",
+    "title-9": "Transporte de Cal Virgem",
+    "title-10": "Transporte de Calcário",
+    "title-11": "Transporte de Contêiner",
+    "title-12": "Transporte de Coque",
+    "title-13": "Transporte de Gesso Agrícola",
+    "title-14": "Transporte de Glicerina",
+    "title-15": "Transporte de Lastro",
+    "title-16": "Transporte de Madeira",
+    "title-17": "Transporte de Óleo “Raro”",
+    "title-18": "Transporte de Óleo Combustível",
+    "title-19": "Transporte de Óleo de Xisto",
+    "title-20": "Transporte de Piche",
+    "title-21": "Transporte de QAV (JET)"
+  },
+  "home-4": {
+    "title": "Garbuio Seminovos! excelência que move você",
+    "description": "Encontre veículos pesados selecionados com rigor, qualidade garantida e oportunidades especiais. Explore nossas opções e dê o próximo passo com segurança e confiança."
+  },
+  "home-5": {
+    "title": "Números de Clientes",
+    "description": "Resultados que refletem a confiança e a satisfação de quem percorre essa jornada conosco.",
+    "card": "Clientes Atendidos",
+    "card-1": "Clientes Fidelizados",
+    "card-2": "Parcerias Ativas"
+  },
+  "team": {
+    "card": "Time",
+    "title": "Nosso Time Dos Sonhos",
+    "description": "Durante a execução do serviço, realizamos acompanhamentos e ajustes constantes com o cliente, pois ele é quem melhor pode avaliar se a operação está atendendo plenamente suas necessidades e expectativas."
+  },
+  "faqs": {
+    "title": "Perguntas Frequentes",
+    "description": "Não encontrou o que procurava ? Entre em contato com a,",
+    "description-1": "equipe de suporte ao cliente."
+  },
+  "page-login": {
+    "title": "Área destinada exclusivamente ao uso interno dos colaboradores da Transportadora Garbuio.",
+    "description": "Mediante acesso restrito e autorizado apenas a funcionários da empresa.",
+    "description-1": "Para novos cadastros, sua solicitação será encaminhada ao setor responsável, e a liberação do acesso será confirmada por e-mail.",
+    "info": "Contato",
+    "info-1": "E-mail"
+  },
+  "login-card": {
+    "title": "Acessar o Garbuio Hub",
+    "description": "Bem vindo de volta! acesse para continuar",
+    "user": "Usuário",
+    "password": "Senha",
+    "button": "Esqueceu sua Senha ?",
+    "button-1": "Entrar",
+    "ask": "Não possui uma conta ?",
+    "button-2": "Criar conta"
+  },
+  "create-card": {
+    "title": "Criar Acesso no Garbuio Hub",
+    "description": "Bem vindo! Crie uma conta para começar",
+    "name": "Nome",
+    "second-name": "Sobrenome",
+    "user": "Usuário",
+    "password": "Senha",
+    "button": "Continuar",
+    "ask": "Já possui uma conta ?",
+    "button-1": "Entrar"
+  },
+  "forgot-card": {
+    "title": "Recuperar Senha",
+    "description": "Entre com seu e-mail, irá receber um link",
+    "mail": "E-mail",
+    "button": "Enviar",
+    "info": "Nós enviaremos um link em seu e-mail.",
+    "ask": "Lembra da sua senha ?",
+    "button-1": "Entrar"
+  },
+  "cards": {
+    "1": {
+      "title": "Maio Amarelo",
+      "desc1": "A ação faz alusão ao Maio Amarelo, que reforça os cuidados com a segurança no trânsito, e também ao 18 de Maio – Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes 🎗️",
+      "desc2": "Seguimos rodando com propósito, consciência e coragem!",
+      "image": "/gallery/maio-amarelo.jpg"
+    },
+    "2": {
+      "title": "Outubro Rosa",
+      "desc1": "O Movimento A Voz Delas segue transformando histórias e, nessa segunda fase, a promoção “Na direção dos seus sonhos” traz a oportunidade para mulheres que sonham em dirigir caminhão e conquistar a CNH profissional, nas categorias, C, D ou E.",
+      "desc2": "Nós, da Transportadora Garbuio, também apoiamos a realização de sonhos e queremos ver você realizando o seu!",
+      "image": "/gallery/outubro-rosa.jpg"
+    },
+    "3": {
+      "title": "Programa Na Mão Certa",
+      "desc1": "A Transportadora Garbuio reforça seu compromisso com o Programa Na Mão Certa, iniciativa nacional dedicada à proteção da infância e ao enfrentamento da exploração sexual de crianças e adolescentes nas estradas.",
+      "desc2": "Em 2025, marcamos presença no 19° Encontro de Reconhecimento Anual Na Mão Certa, demonstrando nossa participação ativa nas ações do programa e nosso empenho em contribuir para rodovias mais seguras, humanas e conscientes.",
+      "image": "/gallery/mao-certa.jpg"
+    }
+  }
+}

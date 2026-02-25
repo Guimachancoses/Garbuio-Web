@@ -1,0 +1,134 @@
+{
+  "header": {
+    "title": "About Us",
+    "title-1": "Solutions",
+    "title-2": "Blog",
+    "title-3": "Contact Us",
+    "button": "Login",
+    "button-1": "Sing-in",
+    "button-2": "Learn More",
+    "toggle": "Light",
+    "toggle-1": "Dark",
+    "toggle-2": "System"
+  },
+  "footer": {
+    "title": "About Us",
+    "title-1": "Solutions",
+    "title-2": "Blog",
+    "title-3": "Contact Us",
+    "title-4": "Work With Us",
+    "title-5": "Privacy",
+    "signature": "Created by"
+  },
+  "dialog-whats": {
+    "title": "Which area do you want to talk to?",
+    "button": "Sales",
+    "button-1": "Join Us",
+    "button-2": "Used Cars",
+    "button-3": "Contact Us",
+    "button-4": "Technical Team",
+    "close": "Close"
+  },
+  "home": {
+    "title": "Transport Solutions",
+    "description": "Commitment and safety in every operation.",
+    "title-1": "Smart Logistics",
+    "description-1": "Technology and efficiency for your operation.",
+    "title-2": "Connecting Paths",
+    "description-2": "Punctuality and reliability from start to finish.",
+    "button": "Join Us",
+    "button-1": "Learn More",
+    "button-2": "Meet Our Clients"
+  },
+  "home-2": {
+    "title": "Why choose Transportadora Garbuio?",
+    "name": "Garbuio Transport Company",
+    "paraf": "Since 1967, a",
+    "paraf-0": "is a benchmark in corporate transportation, combining experience, quality, and reliability.",
+    "paraf-1": "We work with efficient processes to deliver high-standard services and exceed customer expectations. Our fleet of trucks is extensive and periodically renewed, as are our equipment and structures, allowing us to serve all of Brazil.",
+    "paraf-2": "Our team is highly trained and uses modern control mechanisms to ensure agile and safe service. We always act responsibly and sustainably, preserving the environment and prioritizing safety in all operations."
+  },
+  "home-3": {
+    "title": "Our Services",
+    "description": "Garbuio Transport is recognized for its excellence in transporting a wide variety of cargo types, offering safe, fast, and high-quality solutions.",
+    "title-1": "Dextrose Transport",
+    "title-2": "Asphalt Emulsion Transport",
+    "title-3": "Liquid and Solid Fertilizer Transport",
+    "title-4": "Gasoline Transport",
+    "title-5": "Sugar Transport",
+    "title-6": "Anthraphen Transport",
+    "title-7": "Sand Transport",
+    "title-8": "Biodiesel (B100) Transport",
+    "title-9": "Quicklime Transport",
+    "title-10": "Limestone Transport",
+    "title-11": "Container Transport",
+    "title-12": "Coke Transport",
+    "title-13": "Agricultural Gypsum Transport",
+    "title-14": "Glycerin Transport",
+    "title-15": "Transport of Ballast",
+    "title-16": "Wood Transport",
+    "title-17": "Rare Oil Transport",
+    "title-18": "Fuel Oil Transport",
+    "title-19": "Shale Oil Transport",
+    "title-20": "Pitch Transport",
+    "title-21": "Jet Fuel Transport"
+  },
+  "home-4": {
+    "title": "Garbuio Seminovos! Excellence that moves you",
+    "description": "Find rigorously selected heavy vehicles with guaranteed quality and special opportunities. Explore our options and take the next step with safety and confidence."
+  },
+  "home-5": {
+    "title": "Number of Clients",
+    "description": "Results that reflect the trust and satisfaction of those who journey with us.",
+    "card": "Served Clients",
+    "card-1": "Loyal Clients",
+    "card-2": "Active Partnerships"
+  },
+  "team": {
+    "card": "Team",
+    "title": "Our Dream Team",
+    "description": "During the execution of the service, we carry out constant follow-ups and adjustments with the client, as they are the ones best able to assess whether the operation is fully meeting their needs and expectations."
+  },
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "description": "Didn't find what you were looking for ? Contact the,",
+    "description-1": "customer support team."
+  },
+  "page-login": {
+    "title": "Area intended exclusively for internal use by Transportadora Garbuio employees.",
+    "description": "Access is restricted and authorized only for company employees.",
+    "description-1": "For new registrations, your request will be forwarded to the responsible department, and access will be confirmed by email.",
+    "info": "Contact",
+    "info-1": "Email"
+  },
+  "login-card": {
+    "title": "Access Garbuio Hub",
+    "description": "Welcome back! Log in to continue",
+    "user": "Username",
+    "password": "Password",
+    "button": "Forgot your password?",
+    "button-1": "Log in",
+    "ask": "Don't have an account?",
+    "button-2": "Create account"
+  },
+  "create-card": {
+    "title": "Create Access to Garbuio Hub",
+    "description": "Welcome! Create an account to get started",
+    "name": "First Name",
+    "second-name": "Last Name",
+    "user": "Username",
+    "password": "Password",
+    "button": "Continue",
+    "ask": "Already have an account?",
+    "button-1": "Log in"
+  },
+  "forgot-card": {
+    "title": "Recover Password",
+    "description": "Enter your email, you will receive a link",
+    "mail": "Email",
+    "button": "Send",
+    "info": "We will send a link to your email.",
+    "ask": "Remember your password?",
+    "button-1": "Log in"
+  }
+}

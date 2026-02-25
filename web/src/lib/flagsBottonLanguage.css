@@ -1,0 +1,65 @@
+.language-switcher {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+
+  /* 🔥 acima de qualquer modal / header */
+  z-index: 2147483647;
+
+  /* 🔥 cria stacking context próprio */
+  isolation: isolate;
+
+  display: flex;
+  gap: 8px;
+
+  pointer-events: auto;
+}
+
+/* ========================= */
+/* 📱 MOBILE / TABLET */
+/* ========================= */
+@media (max-width: 1023px) {
+  .language-switcher {
+    top: auto;
+    right: 50%;
+    bottom: 16px;
+
+    transform: translateX(50%);
+
+    /* opcional: melhora toque */
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(6px);
+  }
+}
+
+.language-switcher button {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  padding: 0;
+  border: none;
+  background: transparent;
+  overflow: hidden;
+  cursor: pointer;
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.language-switcher button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.15);
+}
+
+/* 🔥 wrapper do next/image */
+.language-switcher button span {
+  display: inline-flex;
+  cursor: pointer;
+}
+
+/* img interno */
+.language-switcher button img {
+
+  cursor: pointer;
+}
