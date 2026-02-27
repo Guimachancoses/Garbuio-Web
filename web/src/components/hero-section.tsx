@@ -8,10 +8,13 @@ import Image from 'next/image'
 import { TextEffect } from '@/src/components/ui/text-effect'
 import { AnimatedGroup } from '@/src/components/ui/animated-group'
 import { HeroHeader } from './header'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion, AnimatePresence, type Variants } from 'framer-motion'
 import { useTranslations } from "next-intl";
 
-const transitionVariants = {
+const transitionVariants: {
+    container?: Variants
+    item?: Variants
+} = {
     item: {
         hidden: {
             opacity: 0,
