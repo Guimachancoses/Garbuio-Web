@@ -1,4 +1,3 @@
-"use client"
 import { source } from "@/src/lib/source";
 import { DocsBody } from "fumadocs-ui/page";
 import { notFound } from "next/navigation";
@@ -19,7 +18,6 @@ import { HeroHeader } from "@/src/components/header";
 import { AnimatedGroup } from "@/src/components/ui/animated-group";
 import FooterSection from "@/src/components/footer";
 import { formatDate } from "@/src/lib/utils"
-import { useState } from "react";
 
 interface PageProps {
     params: Promise<{ slug: string }>;
@@ -41,11 +39,10 @@ export default async function BlogPost({ params }: PageProps) {
     const MDX = page.data.body;
     const date = new Date(page.data.date);
     const formattedDate = formatDate(date);
-    const [screen, setScreen] = useState<'login' | 'forgot' | 'create'>('login')
 
     return (
         <>
-            <HeroHeader onCreate={() => setScreen('create')} onLogin={() => setScreen('login')} />
+            <HeroHeader />
             {/* Header */}
             <AnimatedGroup
                 variants={{

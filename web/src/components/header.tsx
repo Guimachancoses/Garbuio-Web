@@ -9,11 +9,11 @@ import { ThemeToggleButton } from './ThemeToggleButton'
 import { useTranslations } from "next-intl";
 
 type HeroProps = {
-    onLogin: () => void;
-    onCreate: () => void;
+    onLogin?: () => void
+    onCreate?: () => void
 }
 
-export const HeroHeader = ({ onLogin, onCreate }: HeroProps ) => {
+export const HeroHeader = ({ onLogin, onCreate }: HeroProps) => {
     const t = useTranslations('header')
 
     const menuItems = [
@@ -95,7 +95,7 @@ export const HeroHeader = ({ onLogin, onCreate }: HeroProps ) => {
                                     size="sm"
                                     className={cn(isScrolled && 'lg:hidden')}
                                     onClick={onLogin}
-                                    >
+                                >
                                     <Link href="/login">
                                         <span>{t('button')}</span>
                                     </Link>
@@ -105,7 +105,7 @@ export const HeroHeader = ({ onLogin, onCreate }: HeroProps ) => {
                                     size="sm"
                                     className={cn(isScrolled && 'lg:hidden')}
                                     onClick={onCreate}
-                                    >
+                                >
                                     <Link href="/login">
                                         <span>{t('button-1')}</span>
                                     </Link>

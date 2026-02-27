@@ -1,6 +1,5 @@
-"use client"
 import { source } from "@/src/lib/source";
-import { Suspense, useState } from "react";
+import { Suspense } from "react";
 import { BlogCard } from "@/src/components/blog-card";
 import { TagFilter } from "@/src/components/tag-filter";
 import { FlickeringGrid } from "@/src/components/magicui/flickering-grid";
@@ -37,7 +36,6 @@ export default async function BlogPage({
 
   const { locale } = await params;
   const { tag } = await searchParams;
-  const [screen, setScreen] = useState<'login' | 'forgot' | 'create'>('login')
 
   const selectedTag = tag ?? "Todos";
 
@@ -89,7 +87,7 @@ export default async function BlogPage({
 
   return (
     <>
-      <HeroHeader onCreate={() => setScreen('create')} onLogin={() => setScreen('login')} />
+      <HeroHeader />
       <div className="pt-15 min-h-screen bg-background relative border-b border-border">
         {/* Background */}
         <div className="absolute top-0 left-0 z-0 w-full h-[350px] [mask-image:linear-gradient(to_top,transparent_25%,black_95%)]">
